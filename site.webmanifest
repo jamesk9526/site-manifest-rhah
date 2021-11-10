@@ -1,0 +1,23 @@
+{
+    "name": "Bethany L Douglas",
+    "short_name": "Bethany L Douglas",
+    "icons": [
+        {
+            "src": "https://static1.squarespace.com/static/5b78bf55710699708f6d2ca7/t/618bad21699b38319a39a2e9/1636543777029/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://static1.squarespace.com/static/5b78bf55710699708f6d2ca7/t/618bad4618954a209b46a2d0/1636543814713/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.bethanyldouglas.com/"
+}
