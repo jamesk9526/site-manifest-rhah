@@ -3,13 +3,13 @@
     "short_name": "Rebecca's Hearth and Home",
     "icons": [
         {
-            "src": "",
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEilUfX6RkzcoKFYlpu6HcRPPL8D8xEYUEghtB8Qsojm76_FlL4jlhOUyU38cgcFXsrjloUAXHCH-4JquoTB0861lYMtzA1SjcJkkVK-QsaOglYxqhGVlJ6Dk73jgavr5iGTbLu1OGAUJNfHfVMjjGb8z3ZkaM7z1acrDtNYGi-xWKR3o0pn_HQqSq_bZg",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "",
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgo1fOdzTokDpdPkEfseJTM-mXCRn2Bpu9nkm6YL8snqZwD7XoiZx-Lb4lFcz4qBrha18GHJD6tD3HPa3SY42rjJwh7PASETkgK0KvsD7CswvMlr42g-2vU4CwSUOU9J61OpTBGgbUrk17GpJJDI48YiUkikNKs6HvQuvdMAWAfXzwT0TNrW0nzfqxITQ=s320",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
@@ -19,5 +19,5 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
-  "start_url": "https://www.bethanyldouglas.com/"
+  "start_url": "https://www.rebeccashearthandhome.com/"
 }
